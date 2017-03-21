@@ -23,7 +23,7 @@ Web app to create and take exams, using Angular and Bootstrap.
 - Devonte Holmes
 - Paul Stanton
 - Stephen Osei-Owusu
-- Summer Wilkens
+- Summer Wilken
 
 
 ---
